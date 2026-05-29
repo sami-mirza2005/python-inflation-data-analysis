@@ -30,5 +30,10 @@ Run the project:
 python main.py
 ```
 
+## Output Visualization
+
+![Bangladesh Inflation Pie Chart](output.png)
+
 ## Output
+
 The program generates a pie chart showing Bangladesh's inflation rate over the last ten years.
